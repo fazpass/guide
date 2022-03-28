@@ -1,4 +1,9 @@
+// JSON FILE 
+// Body Request (REQUIRED)
+// Object
+
+
 {
     "phone": "085171535123", 
-    "type": "sms"
+    "type": "miscall"
 }
