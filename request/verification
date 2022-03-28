@@ -1,0 +1,9 @@
+// JSON FILE 
+// Body Request (REQUIRED)
+// Object
+
+
+{
+    "otp_id": 102, // otp_id from response
+    "otp": "160368" // otp generated from response
+}
